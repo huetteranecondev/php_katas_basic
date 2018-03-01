@@ -1,4 +1,4 @@
-# temperaturecontroller
+# Temperature Controller - Unit Testing Kata 
 Unit Testing &amp; TDD Training Project
 
 ## Introduction
