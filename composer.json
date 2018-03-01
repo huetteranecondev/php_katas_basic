@@ -1,0 +1,13 @@
+{
+	"autoload" : {
+		"psr-4" : {
+			"Afh\\TemperatureControllerr\\" : "src"
+		}
+	},
+	"name" : "afh/TemperatureControllerr",
+	"require" : {
+		"php" : ">=7.1"
+	},
+	"require-dev" : {
+		"phpunit/phpunit" : "~7.0"
+	} }
