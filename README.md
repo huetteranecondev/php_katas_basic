@@ -3,8 +3,10 @@ Unit Testing &amp; TDD Training Project for PHP Developers
 
 ## Introduction
 This training consists of two parts:
-1.) Understanding and applying test doubles
-2.) Understanding and applying Test Driven Development
+1. Understanding and applying test doubles
+2. Understanding and applying Test Driven Development
+
+The task is to implement a temperature controller that adjusts the temperature of an air condition based the temperature read by a sensor.
 
 ## Practice 1 - The production code
 Create a temperature controller that provides the following functionality:
@@ -22,7 +24,7 @@ Create a temperature controller that provides the following functionality:
 - Discuss potential problems with the current design and try to overcome them with corresponding refactoring and/or testing
 
 ### Practice 3 - Test driven development
-- See practice_03_tdd.txt
+- See [practice_03_tdd.md](https://github.com/huetteranecondev/temperaturecontroller/blob/master/practice_03_tdd.md)
 
 ## Setup
 The basic skeleton includes the empty TemperatureController and the empty TemperatureControllerTest class.
