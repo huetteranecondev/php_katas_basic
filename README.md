@@ -1,5 +1,5 @@
-# Temperature Controller - Unit Testing Kata 
-Unit Testing &amp; TDD Training Project
+# Temperature Controller - PHP Unit Testing Kata 
+Unit Testing &amp; TDD Training Project for PHP Developers
 
 ## Introduction
 This training consists of two parts:
