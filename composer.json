@@ -1,10 +1,10 @@
 {
 	"autoload" : {
 		"psr-4" : {
-			"Afh\\Example\\" : "src"
+			"Katas\\LeapYear\\" : "src"
 		}
 	},
-	"name" : "afh/Example",
+	"name" : "katas/leap_year",
 	"require" : {
 		"php" : ">=7.1"
 	},

@@ -1,8 +1,8 @@
 <?php
 
-namespace Afh\Example;
+namespace Katas\LeapYear;
 
-class Example
+class LeapYearChecker
 {
 
     public function __construct()
