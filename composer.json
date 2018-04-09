@@ -1,10 +1,10 @@
 {
 	"autoload" : {
 		"psr-4" : {
-			"Afh\\RoomClimate\\" : "src"
+			"Afh\\Example\\" : "src"
 		}
 	},
-	"name" : "afh/TemperatureController",
+	"name" : "afh/Example",
 	"require" : {
 		"php" : ">=7.1"
 	},

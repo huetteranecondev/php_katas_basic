@@ -1,8 +1,8 @@
 <?php
 
-namespace Afh\RoomClimate;
+namespace Afh\Example;
 
-class TemperatureController
+class Example
 {
 
     public function __construct()
