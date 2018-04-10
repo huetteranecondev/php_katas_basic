@@ -1,10 +1,10 @@
 {
 	"autoload" : {
 		"psr-4" : {
-			"Katas\\LeapYear\\" : "src"
+			"Katas\\StringCalculator\\" : "src"
 		}
 	},
-	"name" : "katas/leap_year",
+	"name" : "katas/stringcalculator",
 	"require" : {
 		"php" : ">=7.1"
 	},
